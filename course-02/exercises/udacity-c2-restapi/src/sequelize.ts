@@ -16,6 +16,3 @@ export const sequelize = new Sequelize({
 });
 
 // export const sequelize = new Sequelize("postgres://postgres:postgres@udagramnstrange.cj6xemhpolby.us-west-1.rds.amazonaws.com/udagramnstrange")
-
-
-
